@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daria</h1>
 <h3 align="center">A passionate UX designer and Junior Full Stack Developer based in Amsterdam</h3>
 
-- 👨‍💻 I just finished 9-week Full-Stack Web Development Bootcamp in <a href="http://https://www.lewagon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="Le Wagon" width="30" height="30"/></a>
+- 👨‍💻 I just finished the 9-week Full-Stack Web Development Bootcamp in <a href="http://https://www.lewagon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="Le Wagon" width="30" height="30"/></a>
 
 - 👯 In the Bootcamp I built 2 projects with a team: <img src="logo-floaty.png" alt="floaty" width="60" height="30"/> </a> <a href="http://floaties.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="ryb.png" alt="Rewild Your Backyard" width="30" height="30"/> </a> <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> 
 
