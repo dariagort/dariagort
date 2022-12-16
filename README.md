@@ -5,7 +5,7 @@
 
 - 👯 In the Bootcamp I built 2 projects with a team: <img src="logo-floaty.png" alt="floaty" width="60" height="30"/> </a> <a href="http://floaties.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="ryb.png" alt="Rewild Your Backyard" width="30" height="30"/> </a> <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> 
 
-- 🔭 I’m currently still working on **Floaty** and building **Rewild** - a project I started after the Bootcamp
+- 🔭 I’m currently still co-working on **Floaty** and building **Rewild** - a project I started after the Bootcamp
   
 - 🌱 Next step is to learn **React**
 
