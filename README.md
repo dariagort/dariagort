@@ -3,13 +3,15 @@
 
 - 👨‍💻 I just finished 9-week Full-Stack Web Development Course in Le Wagon. Team projects: <img src="logo-floaty.png" alt="floaty" width="80" height="40"/> </a> <a href="http://floaties.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="ryb.png" alt="Rewild Your Backyard" width="40" height="40"/> </a> <a href="https://ryb-rewild.herokuapp.com/" target="_blank" rel="noreferrer"> 
 
-- 🔭 I’m currently working on **Rewild** - a project I started after the Bootcamp.
-
+- 🔭 I’m currently working on 2 projects: **Floaty** and building **Rewild** - a project I started after the Bootcamp
+  
 - 🌱 I’m currently learning **React**
 
-- ⚡ I am passionate about UX desing and I have a background in Architecture.
+- ⚡ I am passionate about UX desing and I have a background in Architecture
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@daria.gortchacow) because I enjoy explaining key concepts in an easy way.
+- 📝 I recently stated to write articles on [Medium](https://medium.com/@daria.gortchacow) because I enjoy explaining key concepts in an easy way
+  
+- 🤝 Open for work as a Full-Stack Developer
 
 - 📫 How to reach me **daria.gortchacow@gmail.com**
 
