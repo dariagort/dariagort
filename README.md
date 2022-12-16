@@ -13,6 +13,8 @@
 
 - 📝 I enjoy writing articles on [Medium](https://medium.com/@daria.gortchacow) because I enjoy explaining key concepts in an easy way
   
+- ❤️ I have fun skating, sailing, drawing and many more arts & crafts.
+  
 - 🤝 Open for work as a Full-Stack Developer
 
 - 📫 How to reach me **daria.gortchacow@gmail.com**
