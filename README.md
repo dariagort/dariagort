@@ -11,7 +11,7 @@
 
 - ⚡ I am passionate about UX desing and I have a background in Architecture
 
-- 📝 I enjoy writing articles on [Medium](https://medium.com/@daria.gortchacow) because I enjoy explaining key concepts in an easy way
+- 📝 I enjoy writing articles on [Medium](https://medium.com/@daria.gortchacow) because I love explaining key concepts in an easy way
   
 - ❤️ I have fun skating, sailing, drawing and many more arts & crafts.
   
