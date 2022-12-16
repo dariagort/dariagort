@@ -9,7 +9,7 @@
 
 - ⚡ I am passionate about UX desing and I have a background in Architecture.
 
-- 📝 I regularly write articles on [Medium](Medium) because I enjoy explaining key concepts in an easy way.
+- 📝 I regularly write articles on [Medium](https://medium.com/@daria.gortchacow) because I enjoy explaining key concepts in an easy way.
 
 - 📫 How to reach me **daria.gortchacow@gmail.com**
 
