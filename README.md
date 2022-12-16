@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently still working on **Floaty** and building **Rewild** - a project I started after the Bootcamp
   
-- 🌱 I’m currently learning **React**
+- 🌱 Next step is to learn **React**
 
 - ⚡ I am passionate about UX desing and I have a background in Architecture
 
-- 📝 I recently started to write articles on [Medium](https://medium.com/@daria.gortchacow) because I enjoy explaining key concepts in an easy way
+- 📝 I enjoy writing articles on [Medium](https://medium.com/@daria.gortchacow) because I enjoy explaining key concepts in an easy way
   
 - 🤝 Open for work as a Full-Stack Developer
 
