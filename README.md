@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daria</h1>
-<h3 align="center">A passionate UX designer and Junior Full Stack Developer based in Amsterdam</h3>
+<h3 align="center">A passionate UX designer and Full Stack Developer based in Amsterdam</h3>
 
 - 👨‍💻 I just finished the 9-week Full-Stack Web Development Bootcamp in <a href="http://https://www.lewagon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="Le Wagon" width="30" height="30"/></a>
 
